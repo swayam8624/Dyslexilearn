@@ -1,0 +1,7 @@
+./local-rag/*
+local-rag/*
+venv/*
+Gambo/*
+.ipynb_checkpoints/* 
+Data.rar
+text_chunks_and_embeddings_df.csv
